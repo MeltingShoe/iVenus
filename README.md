@@ -6,6 +6,8 @@ Just import the installation shortcut below and run it! It will clone the repo a
 
 If you have iOS 18 I recommend adding that shortcut to your control center.
 
+https://www.icloud.com/shortcuts/f3bce32ca7344f40a28e2814dfff3955
+
 **NOTE: If you don't get a prompt to import `Run iVenus Scratchpad` just run the install shortcut again**
 
 ### Usage
