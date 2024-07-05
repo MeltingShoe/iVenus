@@ -2,7 +2,11 @@
 Execute python code directly from inside Apple Notes!
 
 ### Install
-Just import the installation shortcut below and run it! It will clone the repo and import another shortcut called "Run iVenus Scratchpad". If you have iOS 18 I recommend adding that shortcut to your control center.
+Just import the installation shortcut below and run it! It will clone the repo and import another shortcut called "Run iVenus Scratchpad". 
+
+If you have iOS 18 I recommend adding that shortcut to your control center.
+
+**NOTE: If you don't get a prompt to import `Run iVenus Scratchpad` just run the install shortcut again**
 
 ### Usage
 Tag any note with the `#python` tag then write blocks of code enclosed with triple backticks `` ``` ``
