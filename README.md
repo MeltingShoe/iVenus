@@ -2,6 +2,7 @@
 Execute python code directly from inside Apple Notes!
 
 ### Install
+This shortcuts requires the app a-Shell to run, it's free on the app store!
 Just import the installation shortcut below and run it! It will clone the repo and import another shortcut called `Run iVenus Scratchpad`. \
 If you have iOS 18 I recommend adding that shortcut to your control center.
 
